@@ -39,6 +39,8 @@ Booking Flight - Success Book
     Click Price Flight
     Click Button Confirm
 
+    Close Flight Application
+
 Booking Flight - Blank Start Date
     Open Flight Application
     Click Sign In Button On Home Page
@@ -51,15 +53,6 @@ Booking Flight - Blank Start Date
     Click Book Button On Home Page
     Click Oneway Button On Book Page
     
-    Select Departure Button On Book Page
-    Click Departure
-    
-    Select Destination Button On Book Page
-    Click Destination
-    
-    Select Class Type On Book Page
-    Click Class
-    
     Click End Date On Book Page
     Select End Date On Calendar
     Click OK Button On Calendar
@@ -69,6 +62,8 @@ Booking Flight - Blank Start Date
 
     Click Price Flight
     Click Button Confirm
+
+    Close Flight Application
 
 Booking Flight - Blank End Date
     Open Flight Application
@@ -82,15 +77,6 @@ Booking Flight - Blank End Date
     Click Book Button On Home Page
     Click Oneway Button On Book Page
     
-    Select Departure Button On Book Page
-    Click Departure
-    
-    Select Destination Button On Book Page
-    Click Destination
-    
-    Select Class Type On Book Page
-    Click Class
-    
     Click Start Date On Book Page
     Select Start Date On Calendar
     Click OK Button On Calendar
@@ -100,6 +86,8 @@ Booking Flight - Blank End Date
 
     Click Price Flight
     Click Button Confirm
+
+    Close Flight Application
 
 Booking Flight - Blank Type
     Open Flight Application
@@ -112,16 +100,7 @@ Booking Flight - Blank Type
 
     Click Book Button On Home Page
     Click Oneway Button On Book Page
-    
-    Select Departure Button On Book Page
-    Click Departure
-    
-    Select Destination Button On Book Page
-    Click Destination
-    
-    Select Class Type On Book Page
-    Click Class
-    
+        
     Click Start Date On Book Page
     Select Start Date On Calendar
     Click OK Button On Calendar
@@ -135,6 +114,8 @@ Booking Flight - Blank Type
     Click Price Flight
     Click Button Confirm
 
+    Close Flight Application
+
 Booking Flight - Blank Date And Type
     Open Flight Application
     Click Sign In Button On Home Page
@@ -146,20 +127,13 @@ Booking Flight - Blank Date And Type
 
     Click Book Button On Home Page
     Click Oneway Button On Book Page
-    
-    Select Departure Button On Book Page
-    Click Departure
-    
-    Select Destination Button On Book Page
-    Click Destination
-    
-    Select Class Type On Book Page
-    Click Class
 
     Click Button Booking
 
     Click Price Flight
     Click Button Confirm
+
+    Close Flight Application
 
 Booking Flight - Not Select Price Confirm
     Open Flight Application
@@ -173,15 +147,6 @@ Booking Flight - Not Select Price Confirm
     Click Book Button On Home Page
     Click Oneway Button On Book Page
     
-    Select Departure Button On Book Page
-    Click Departure
-    
-    Select Destination Button On Book Page
-    Click Destination
-    
-    Select Class Type On Book Page
-    Click Class
-    
     Click Start Date On Book Page
     Select Start Date On Calendar
     Click OK Button On Calendar
@@ -194,3 +159,5 @@ Booking Flight - Not Select Price Confirm
     Click Button Booking
 
     Click Button Confirm
+
+    Close Flight Application
